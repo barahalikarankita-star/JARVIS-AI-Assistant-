@@ -362,7 +362,9 @@ Before running JARVIS, make sure you have:
 
 1. Clone the Repository
 
-git clone https://github.com/YOUR-USERNAME/JARVIS-AI-Assistant.git
+git clone <img width="1894" height="1030" alt="jarvisimage" src="https://github.com/user-attachments/assets/698d791a-9fb1-4d22-a57b-d9cfd6cd4fb9" />
+<img width="1894" height="1030" alt="jarvisimage" src="https://github.com/user-attachments/assets/8449675b-6056-4016-9379-acc94a3edee9" />
+https://github.com/barahalikarankita-star/JARVIS-AI-Assistant.git
 
 Navigate into the project:
 
@@ -494,23 +496,8 @@ Then add them to this README.
 
 JARVIS Interface
 
-"JARVIS Interface" (assets/screenshots/jarvis-home.png)
 
-Listening Mode
 
-"Listening Mode" (assets/screenshots/jarvis-listening.png)
-
-Searching Mode
-
-"Searching Mode" (assets/screenshots/jarvis-searching.png)
-
-Speaking Mode
-
-"Speaking Mode" (assets/screenshots/jarvis-speaking.png)
-
-«Replace the image filenames with your actual screenshots.»
-
----
 
 🔌 API Integration
 
